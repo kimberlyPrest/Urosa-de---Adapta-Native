@@ -1,0 +1,4 @@
+codigo_localprodoctor;localprodoctor;usuario_sintetico;convenio;data;conta;codigo_procedimento;descricao_procedimento;glosa;faturado;clinica;medico_sintetico;credito_debito
+LOC-001;Centro Sintetico;usuario-001;Particular;01/08/2026;Caixa;PROC-001;Consulta;0,00;250,00;Clinica Sintetica;medico-001;credito
+LOC-002;Centro Sintetico;usuario-002;Convenio Sintetico A;01/08/2026;Caixa;PROC-002;Exame;10,00;180,00;Clinica Sintetica;medico-002;credito
+LOC-003;Centro Sintetico;usuario-003;Particular;data-invalida;Caixa;PROC-003;Retorno;0,00;90,00;Clinica Sintetica;medico-001;credito
