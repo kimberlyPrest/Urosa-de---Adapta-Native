@@ -28,7 +28,7 @@
     {"path":"AGENTS.md","sha256":"4f2333400823c5463f2b80af0a937371dd11c91d789c29f41843474644dfddd5","classification":"template-publico"},
     {"path":"CLAUDE.md","sha256":"a9cd27ff57b7676f74582cd9bcd4b2b0b53492a67b3a2abfe02bba9b6636730d","classification":"template-publico"},
     {"path":"README.md","sha256":"47f900470e07670cd9eaac89f5e4aa07fba27fe39b3ddbe897d5a2d998668939","classification":"template-publico"},
-    {"path":"STATUS.md","sha256":"d7dfb3c42fd8555a4bf07ab6ae4d9f0bf04dc2797aa2c902270a7eeb8f5a98cb","classification":"template-publico"},
-    {"path":"changelog.md","sha256":"a7c0d65ae81139438ae3edb84e40e93b0e4e6d1f60aeb9ae6e8b79c9fa70d8f5","classification":"template-publico"}
+    {"path":"STATUS.md","sha256":"fe9d3b83ff282fc84bb0cc5c8ba798370e5208526ec2d5627f64a5190d6d0bcb","classification":"template-publico"},
+    {"path":"changelog.md","sha256":"6478ba012edeb70e6480cbc97490c996d3027d6afa1dcda35c63960d49dd148d","classification":"template-publico"}
   ]
 }
